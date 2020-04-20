@@ -26,5 +26,5 @@ My current mod collection:
 - [MotdSnark](https://github.com/MiasmaSpace/MotdSnark)
 -- Simple mod to provide a random MOTD
 - [EggDrop](https://github.com/MiasmaSpace/EggDrop)
--- I wanted a “native” feeling way for players to access mob eggs in survival, gives mobs a 10% chance of dropping eggs when killed with a “Skilk Touch” enchanted weapon.
+-- I wanted a “native” feeling way for players to access mob eggs in survival, gives mobs a 10% chance of dropping eggs when killed with a “Silk Touch” enchanted weapon.
 
