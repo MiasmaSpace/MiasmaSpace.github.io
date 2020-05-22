@@ -7,8 +7,6 @@ tags: [journal, celiac]
 comments: true
 ---
 
-# Finding out I have Celiac
-
 A co-worker asked me to share my celiac story because they thought it might help them deal with issues they are having. I’ve been considering doing so already, so I used it as motivation to write this. I also have an article on gluten-free sourdough in the making!
 
 ## I didn’t start out in great shape
