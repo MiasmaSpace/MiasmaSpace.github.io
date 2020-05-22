@@ -30,9 +30,9 @@ disqus_shortname:   miasma-space
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics: UA-167448502-1
   #verify:
   #ad-client:
   #ad-slot:
