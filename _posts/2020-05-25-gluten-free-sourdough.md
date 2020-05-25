@@ -10,7 +10,7 @@ comments: true
 <figure>
     <a href="/assets/img/breadpics/glamor_bread.jpg"><img src="/assets/img/breadpics/glamor_bread.jpg"></a>
     <figcaption>Glorious sourdough bread-analogue</figcaption>
-</figure
+</figure>
 
 # Statement of Hubris
 
@@ -155,7 +155,10 @@ You will need 2 knives. A bread knife for the top-crust, and a sharp chopping kn
 Serve warm, with butter or fruit jam.
 
 Store in the refrigerator in a sealed container.
-Benefit of gluten free bread: It microwaves well! Put a teaspoon (the small one) of water on a plate, lay a slice of cold bread on it, and microwave for 30s. It will suddenly be warm and delicious just like it came out of the oven!
+
+Benefit of gluten free bread: 
+
+* It microwaves well! Put a teaspoon (the small one) of water on a plate, lay a slice of cold bread on it, and microwave for 30s. It will suddenly be warm and delicious just like it came out of the oven!
 
 # Have fun!
 
