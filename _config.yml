@@ -62,7 +62,7 @@ github-url:         brendanbenshoof
 hackernews:        blamestross
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
