@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Anonymous Messaging via DHTs Doesn't Work"
+date:   2022-09-06
+excerpt: "Everything turns into bitmessage"
+project: false
+tag:
+- dhts 
+- programming
+comments: true
+---
+
+
 # Anonymous Messaging via DHTs Doesn't Work
 
 I ran across discussion of [chitchatter](https://news.ycombinator.com/item?id=32732158) on HN and felt an obligation to write up an unpublished "Negative Result" from my misspent PhD days working on [optimizations for Distributed Hash Tables](https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1108&context=cs_diss).
