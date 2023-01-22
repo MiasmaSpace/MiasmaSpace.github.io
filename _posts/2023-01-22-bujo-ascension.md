@@ -6,7 +6,7 @@ excerpt: "A Bullet Journal RPG Framework"
 project: true
 tag:
 - solorpg 
-- journaling
+- journal
 comments: false
 ---
 
