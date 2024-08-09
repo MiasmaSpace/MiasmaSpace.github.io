@@ -1,0 +1,30 @@
+<!doctype html>
+<html><head>
+    {% include 'shared_header.html' %}    
+</head>
+<body>
+  <div id='blog' class='wrap'>
+      {% include 'nav.html' %}  
+<div class="content">
+
+    <div class="front-matter">
+        <div class="wrap">
+            <h1>{{args.title}}</h1>
+            <h4>
+                {{args.description}}
+            </h4>
+            <div class="bylines">
+                <div class="byline">
+                    <h3>Published</h3>
+                    <p>{{args.date}}</p>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="wrap article">
+       {{content}}
+    </div>
+</div>
+</div>
+</body></html>
