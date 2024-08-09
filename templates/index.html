@@ -1,0 +1,38 @@
+<!doctype html>
+<html><head>
+    {% include 'shared_header.html' %}
+    </head>
+<body>
+  <div id='blog' class='wrap'>
+<div class="content">
+    {% include 'nav.html' %}
+  <div class="front-matter">
+        <div class="wrap">
+            <h1>{{args.title}}</h1>
+            <h4>
+                {{args.description}}
+            </h4>
+  </div>
+  <div class="wrap article">
+       {{content}}
+ <div id='posts' class='section'>
+  {% for post in tags[args.target_tag]|sort(attribute='date', reverse = True) %}
+                  <div class='post-row '>
+                    <p class='post-title'>
+                        <a href="/{{post._targets[0]}}">
+                          {{post.title}}
+                        </a>
+                    </p>
+                    <p class='post-date'>
+                        {{post.date}}
+                    </p>
+                </div>
+                <p class='post-subtitle'>
+                  {{post.description}}
+                </p>
+  {% endfor %}
+  </div>
+</div>
+  </div>
+</div>
+</body></html>
