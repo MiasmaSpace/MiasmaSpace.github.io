@@ -7,8 +7,8 @@ _tags:
 - meta
 _targets: ["static/blog.css"]
 text: "779e7f"
-background: "202020"
-dark: "181818"
+background: "180918"
+dark: "091809"
 link: "cc7832"
 hover: "9876aa"
 quote: "a5c25c"
