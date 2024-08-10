@@ -7,13 +7,35 @@ _tags:
 - meta
 _targets: ["static/blog.css"]
 text: "779e7f"
+background: "202020"
+dark: "181818"
+link: "cc7832"
+hover: "9876aa"
+quote: "a5c25c"
+quote_edge: "a5c25c"
+---
+
+might be ok
+```
+text: "FFF2D7"
+background: "202020"
+dark: "181818"
+link: "cc7832"
+hover: "9876aa"
+quote: "a5c25c"
+quote_edge: "a5c25c"
+```
+
+dark forest
+```
+text: "779e7f"
 background: "2b2b2b"
 dark: "202020"
 link: "cc7832"
 hover: "9876aa"
 quote: "a5c25c"
 quote_edge: "a5c25c"
----
+```
 
 forest
 ```
