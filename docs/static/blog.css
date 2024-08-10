@@ -5,7 +5,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  background-color: #202020;
+  background-color: #180918;
 }
 body {
   margin: 0;
@@ -158,14 +158,14 @@ table td {
   padding: 0 1em;
   color: #a5c25c;
   border-left: 0.25em solid #a5c25c;
-  background-color: #181818;
+  background-color: #091809;
 }
 .article pre {
   margin: 50;
   padding: 0 1em;
   color: #a5c25c;
   border-left: 0.25em solid #a5c25c;
-  background-color: #181818;
+  background-color: #091809;
   overflow: auto;
   word-break: keep-all;
 }
