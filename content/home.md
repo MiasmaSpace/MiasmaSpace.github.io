@@ -17,7 +17,7 @@ The following are profiles connected with me:
 - [Facebook](http://facebook.com/brendan.benshoof)
 - [Github](http://github.com/brendanbenshoof)
 - [Hacker News](https://news.ycombinator.com/user?id=blamestross)
-- [Discord](https://discord.gg/u5QtkucvyA)
+- [Discord](https://discord.com/users/751952998778929212)
 
 The following link downloads a "vcard" file that can be used to add all my contact information to your phone with one click.
 
