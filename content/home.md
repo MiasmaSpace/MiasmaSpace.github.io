@@ -15,9 +15,7 @@ I have long term interests in P2P systems, AI, computer security, and developing
 The following are profiles connected with me:
 
 - [Facebook](http://facebook.com/brendan.benshoof)
-- [Github](http://github.com/brendanbenshoof)
-- [Hacker News](https://news.ycombinator.com/user?id=blamestross)
-- [Discord](https://discord.com/users/751952998778929212)
+- [Signal Messenger](https://signal.me/#eu/8E_Ygm0-mDnwRkYadmm--wcb2aGj6f_PFVC0o6tDvlXqVgUod2xD6bqZ-OwP4NEo)
 
 The following link downloads a "vcard" file that can be used to add all my contact information to your phone with one click.
 
