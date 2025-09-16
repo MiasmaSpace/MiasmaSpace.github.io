@@ -8,12 +8,15 @@ _targets:
     - vcard.html
 ---
 
-Currently employed at Google.
-
 I have long term interests in P2P systems, AI, computer security, and developing hierloom computing.
+
+Check out my [blog](/blog)!
+
+Feel encouraged to email me at `brendan.benshoof@gmail.com` if you want to get in touch.
 
 The following are profiles connected with me:
 
+- [Linkedin](https://www.linkedin.com/in/bbenshoof)
 - [Facebook](http://facebook.com/brendan.benshoof)
 - [Signal Messenger](https://signal.me/#eu/8E_Ygm0-mDnwRkYadmm--wcb2aGj6f_PFVC0o6tDvlXqVgUod2xD6bqZ-OwP4NEo)
 
