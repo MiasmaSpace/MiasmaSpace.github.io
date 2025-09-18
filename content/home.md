@@ -2,7 +2,7 @@
 _template: index.html
 title:  "Brendan Benshoof"
 date:   2024-08-04
-description: "Computer Scientist / Principal Engineer"
+description: "Senior Applied Computer Scientist"
 _targets:
     - index.html
     - vcard.html
